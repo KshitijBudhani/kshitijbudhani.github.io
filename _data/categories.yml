@@ -1,8 +1,8 @@
-- slug: design
-  name: Design
+- slug: algotrading
+  name: Algorithmic Trading
 
-- slug: tools
-  name: Tools
+- slug: datascience
+  name: Data Science
 
-- slug: productivity
-  name: Productivity
+- slug: algorithms
+  name: Algorithms
